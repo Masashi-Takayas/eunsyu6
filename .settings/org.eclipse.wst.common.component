@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="java-advanced-practice-lesson-83393caa4c41a1ab41eec727ef80a04f443f64df">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/java-advanced-practice-lesson-83393caa4c41a1ab41eec727ef80a04f443f64df/src/main/java"/>
+        <property name="context-root" value="java-advanced-practice-lesson-83393caa4c41a1ab41eec727ef80a04f443f64df"/>
+        <property name="java-output-path" value="/java-advanced-practice-lesson-83393caa4c41a1ab41eec727ef80a04f443f64df/bin"/>
+    </wb-module>
+</project-modules>
