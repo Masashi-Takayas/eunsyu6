@@ -13,10 +13,7 @@ public class GameApp {
 	}
 	
 	public String start(String name) {
-		String fight;
+		return  name+"さんと"+item+"でゲームを開始します";
 		
-		fight = name+"さんと"+item+"でゲームを開始します";
-		
-		return fight;
 	}
 }
