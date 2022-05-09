@@ -1,5 +1,4 @@
 <%@ page import="app.GameApp"%>
-
 <%@ page language="java" contentType="text/html; charset=UTF-8"
   pageEncoding="UTF-8"%>
 <%
@@ -8,17 +7,16 @@
 
     String result = "未実施";
 
-    GameApp item1 = new GameApp("何か");
+    GameApp item = new GameApp("何か");
     
     if (name != null && !name.isEmpty()) {
     	// このif分の中で、GameAppクラスのstartメソッドを呼び出し、
-     	result = item1.start(name);
+     	result = item.start(name);
     	// 戻り値をresultに代入してください。
     }
 %>
 <!DOCTYPE html>
-<html>
-<head>
+<html><head>
 <meta charset="UTF-8">
 <title>Java応用_演習問題1</title>
 <style>

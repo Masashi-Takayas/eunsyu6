@@ -8,8 +8,8 @@ public class GameApp {
 		
 	}
 	
-	public GameApp(String name) {
-		name = item;
+	public GameApp(String item) {
+		this.item = item;
 	}
 	
 	public String start(String name) {

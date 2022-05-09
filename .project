@@ -28,6 +28,13 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>main</name>
+			<type>2</type>
+			<location>C:/pleiades/2022-03/workspace/java-advanced-practice-lesson-83393caa4c41a1ab41eec727ef80a04f443f64df/src/main</location>
+		</link>
+	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1651827595864</id>
